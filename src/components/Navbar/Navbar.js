@@ -15,7 +15,7 @@ const Navbar = () => {
 			</div>
 			<div className='row m-auto'>
 				<div className='col-8 offset-2'>
-					<nav className='navbar navbar-expand-sm navbar-dark bg-dark'>
+					<nav className='navbar navbar-expand-md navbar-dark bg-dark'>
 						<Link to='/' className='navbar-brand'>
 							YouGoComm
 						</Link>
