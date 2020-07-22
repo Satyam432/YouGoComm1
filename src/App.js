@@ -6,7 +6,6 @@ function App() {
 	return (
 		<Router>
 			<Switch>
-
 				<Route path='/' component={Home} />
 			</Switch>
 		</Router>
