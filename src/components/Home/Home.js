@@ -4,9 +4,24 @@ import './Home.css';
 
 const Home = () => {
 	return (
-		<div className='home'>
-			<Link to='/login'>Home</Link>
-		</div>
+
+			<div className='container'>
+				<div className='row'>
+					<div className='col-2'>
+
+
+					</div>
+					<div className='col-8'>
+                       <img src='logo.png' />
+
+					</div>
+					<div className='col-2'>
+
+
+					</div>
+				</div>
+			</div>
+
 	);
 };
 
