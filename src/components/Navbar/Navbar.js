@@ -12,7 +12,7 @@ const Navbar = () => {
 				<div className='col-9 col-md-7'>
 					<h1 className='m-0 p-0'>YouGoComm</h1>
 				</div>
-			</div>
+			</div><br/>
 			<div className='row m-auto'>
 				<div className='col-8 offset-2'>
 					<nav className='navbar navbar-expand-md navbar-dark bg-dark'>
