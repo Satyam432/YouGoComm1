@@ -12,9 +12,10 @@ const Navbar = () => {
 				<div className='col-9 col-md-7'>
 					<h1 className='m-0 p-0'>YouGoComm</h1>
 				</div>
-			</div><br/>
+			</div>
+			<br />
 			<div className='row m-auto'>
-				<div className='col-8 offset-2'>
+				<div className='col-12 col-sm-8 offset-sm-2'>
 					<nav className='navbar navbar-expand-md navbar-dark bg-dark'>
 						<Link to='/' className='navbar-brand'>
 							YouGoComm
